@@ -2,6 +2,9 @@
 
 A small, high-quality 2D platformer template created in **Godot 4**. This project showcases core game development pillars: character physics, enemy AI logic, scene unique names, and UI state management.
 
+## 🖼️ Preview
+![Game Preview](visual_sample/visual_sample.png)
+
 ## 🎮 Gameplay Features
 
 * **Knight Controller:** Uses `CharacterBody2D` with logic for Idle, Run, and Jump states.
